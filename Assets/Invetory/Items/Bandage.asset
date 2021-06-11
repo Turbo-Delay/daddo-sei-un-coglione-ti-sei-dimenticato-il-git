@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57314a235157cb94daba8543f0801372, type: 3}
+  m_Name: Bandage
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1377987448288544736, guid: c9dbf3fd4bdfbcc45b2bbf4789693922, type: 3}
+  type: 0
+  description: no, is not a p**n category. It heals you
+  healtRestore: 25
