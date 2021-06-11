@@ -1,2 +1,3 @@
-# daddo-sei-un-coglione-ti-sei-dimenticato-il-git
+# Gioco pazo
 mancava il .git senno non va
+vero
